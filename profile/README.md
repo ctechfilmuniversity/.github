@@ -2,7 +2,7 @@
 
 
 What are the possibilities if we let creative technical minds experiment at an art school? The Master's program [Creative Technologies](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies) enables students to engage with technology and software development in an artistic and creative context. 
-We are part of the [Filmuniversity Babelsberg KONRAD WOLF](https://www.filmuniversitaet.de/en/). Learn more about our [projects](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies/projects), [students](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies/translate-to-englisch-studierende), and [theses](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies/offene-studien-und-abschlussarbeiten) topics!
+We are part of the [Film University Babelsberg KONRAD WOLF](https://www.filmuniversitaet.de/en/). Learn more about our [projects](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies/projects), [students](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies/translate-to-englisch-studierende), and [theses](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies/offene-studien-und-abschlussarbeiten) topics!
 
 This is our Github organization.
 <!--
